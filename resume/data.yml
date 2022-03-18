@@ -21,17 +21,10 @@ experience:
   description: Scripts developing and web site development.
   website: https://luckyz.github.io/
 
-education:
-- degree: Software Engineer
-  timeperiod: March 2010 - September 2018
-  description: Software development orientation on Universidad Católica Santiago del Estero.
-  website: https://bit.ly/3KNwRmq
-
-education:
-- degree: Software Engineer
-  timeperiod: March 2010 - September 2018
-  description: Software development orientation on Universidad Católica Santiago del Estero.
-  website: https://bit.ly/3KNwRmq
+- company: Empresa Provincial de la Energía
+  position: Technical Support
+  timeperiod: since March 2010 - current
+  description: Fulfillment of extremely important tasks.
 
 education:
 - degree: Software Engineer
